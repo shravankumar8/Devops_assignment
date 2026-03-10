@@ -1,6 +1,6 @@
 # DevOps Internship Assessment - Next.js Containerized Application
 
-[![Build and Push Docker Image](https://github.com/shravankumar8/devops-assignment/actions/workflows/docker-build.yml/badge.svg)](https://github.com/shravankumar8/devops-assignment/actions/workflows/docker-build.yml)
+[![Build and Push Docker Image](https://github.com/shravankumar8/Devops_assignment/actions/workflows/docker-build.yml/badge.svg)](https://github.com/shravankumar8/Devops_assignment/actions/workflows/docker-build.yml)
 
 ## 📋 Project Overview
 
@@ -47,8 +47,8 @@ Ensure you have the following installed:
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/shravankumar8/devops-assignment.git
-cd devops-assignment
+git clone https://github.com/shravankumar8/Devops_assignment.git
+cd Devops_assignment
 ```
 
 2. **Install Dependencies**
@@ -163,7 +163,7 @@ Location: `.github/workflows/docker-build.yml`
 
 ### Viewing Builds
 
-Check workflow runs: [Actions Tab](https://github.com/shravankumar8/devops-assignment/actions)
+Check workflow runs: [Actions Tab](https://github.com/shravankumar8/Devops_assignment/actions)
 
 ---
 
@@ -511,7 +511,7 @@ minikube service nextjs-service --url
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+**shravankumar8**
 
 ---
 
