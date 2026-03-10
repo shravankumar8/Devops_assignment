@@ -15,8 +15,8 @@ This guide will help you get the Next.js application up and running locally, bui
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd devops-assignment
+git clone https://github.com/shravankumar8/Devops_assignment.git
+cd Devops_assignment
 ```
 
 ### 2. Install Dependencies
